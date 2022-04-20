@@ -1,5 +1,7 @@
 # GIS-Fingerprinting
 
+[Presentation Report](https://github.com/bryce-bowles/GIS-fingerprinting/blob/112ea1d4dfb6492806bab3fd1cb4b98286487f4e/Fieldprint%20location%20analysis%20-%20Power%20BI%20Presentation.pdf)
+
 *Italicized font are comments from Manager*
 
 ## Agent Licensing Legislation
